@@ -6,20 +6,20 @@ Nombre de logements,9550,,,,,
 Nombre de quartiers,32,,,,,
 ,,,,,,
 Quartier,Prix moyen,Nb logements,,Quartier,Prix moyen,Nb logements
-Ville-Marie,"199,64",3342,,Mont-Royal,"347,36",24
-Rosemont-La Petite-Patrie,"153,65",630,,Hampstead,"305,67",12
+Ville-Marie,"199,53",3342,,Mont-Royal,"347,36",24
+Rosemont-La Petite-Patrie,"153,54",630,,Hampstead,"305,67",12
 Côte-des-Neiges-Notre-Dame-de-Grâce,"110,49",852,,L'Île-Bizard-Sainte-Geneviève,"272,57",7
-Le Sud-Ouest,"192,58",726,,Outremont,"245,03",42
+Le Sud-Ouest,"192,89",726,,Outremont,"245,03",42
 Le Plateau-Mont-Royal,"225,63",1899,,Baie-d'Urfé,"234,17",6
-Villeray-Saint-Michel-Parc-Extension,"114,15",327,,Dorval,"232,67",25
+Villeray-Saint-Michel-Parc-Extension,"114,2",327,,Dorval,"232,67",25
 Baie-d'Urfé,"234,17",6,,Le Plateau-Mont-Royal,"225,63",1899
-Saint-Laurent,"94,13",103,,Ville-Marie,"199,64",3342
+Saint-Laurent,"94,13",103,,Ville-Marie,"199,53",3342
 Mercier-Hochelaga-Maisonneuve,"194,9",583,,Mercier-Hochelaga-Maisonneuve,"194,9",583
-Lachine,"100,96",80,,Dollard-des-Ormeaux,"192,65",24
-Ahuntsic-Cartierville,"127,66",221,,Le Sud-Ouest,"192,58",726
+Lachine,"100,96",80,,Le Sud-Ouest,"192,89",726
+Ahuntsic-Cartierville,"127,66",221,,Dollard-des-Ormeaux,"192,65",24
 Outremont,"245,03",42,,Côte-Saint-Luc,"188,71",19
 Westmount,"162,53",37,,Westmount,"162,53",37
-Rivière-des-Prairies-Pointe-aux-Trembles,"141,1",35,,Rosemont-La Petite-Patrie,"153,65",630
+Rivière-des-Prairies-Pointe-aux-Trembles,"141,1",35,,Rosemont-La Petite-Patrie,"153,54",630
 Dorval,"232,67",25,,Pointe-Claire,"151,57",31
 Anjou,"100,18",33,,Kirkland,"151,27",11
 Pointe-Claire,"151,57",31,,Rivière-des-Prairies-Pointe-aux-Trembles,"141,1",35
@@ -27,7 +27,7 @@ Mont-Royal,"347,36",24,,Ahuntsic-Cartierville,"127,66",221
 Verdun,"90,16",172,,LaSalle,"124,19",115
 LaSalle,"124,19",115,,Pierrefonds-Roxboro,"119,78",57
 Côte-Saint-Luc,"188,71",19,,Montréal-Nord,"119,71",24
-L'Île-Bizard-Sainte-Geneviève,"272,57",7,,Villeray-Saint-Michel-Parc-Extension,"114,15",327
+L'Île-Bizard-Sainte-Geneviève,"272,57",7,,Villeray-Saint-Michel-Parc-Extension,"114,2",327
 Hampstead,"305,67",12,,Sainte-Anne-de-Bellevue,"111,67",3
 Saint-Léonard,"100,85",54,,Côte-des-Neiges-Notre-Dame-de-Grâce,"110,49",852
 Pierrefonds-Roxboro,"119,78",57,,Lachine,"100,96",80
