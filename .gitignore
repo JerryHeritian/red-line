@@ -1,2 +1,9 @@
 data/*.csv
 *.db
+*.db
+*.pbix
+*.xlsx
+*.zip
+*.gz
+__pycache__/
+.ipynb_checkpoints/

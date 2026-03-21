@@ -50,4 +50,4 @@ SELECT
 FROM  listings
 GROUP BY Quartier
 ORDER BY Ratio DESC
-LIMIT 10
+LIMIT 10;
